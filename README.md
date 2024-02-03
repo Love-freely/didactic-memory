@@ -1,1 +1,1 @@
-# didactic-memory
+# entitydidactic-memory
